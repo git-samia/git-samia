@@ -10,7 +10,7 @@
 👩‍💻 an aspiring data analyst and ai enthusiast<br/>
 📈 working on transforming complex datasets into actionable insights<br/>
 📊 eager to grow in tech and solve real-world problems<br/>
-📧 can be reached at <email> to discuss tech and explore opportunities!<br/>
+📧 feel free to reach out <a href="https://linkedin.com/in/samia-katingiri"> here<a/> to discuss tech and explore opportunities!<br/>
 
 ## languages!💻
 <div>
