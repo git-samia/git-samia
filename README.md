@@ -3,7 +3,7 @@
   hey there, i'm samia :)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <h2>
-  <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" width="375px" />
+  <img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" width="325px" />
 </div>
 
 ## about me!🧍‍♀️
